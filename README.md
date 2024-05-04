@@ -3,9 +3,9 @@
 ## TITLE: Taskify - A Task Management Application
 
 ## SCOPE 
-**Front-end**: Develop a web application where users can manage their tasks.
-**Back-end**: Implement a server to handle user authentication and task management.
-**Database**: Utilize a database to store user information and tasks.
+- **Front-end**: Develop a web application where users can manage their tasks.
+- **Back-end**: Implement a server to handle user authentication and task management.
+- **Database**: Utilize a database to store user information and tasks.
 
 ## TASK GIVEN
 
@@ -233,8 +233,8 @@ Controller files for handling CRUD operations related to todos and authenticatio
 
 All output images related to the project are stored in the `my-output` folder. Below is a brief description of each image:
 
-- 1. Add task Data.png:  Image of add task with data
-- 2. Add task Modal.png: Image of add task modal
+1. Add task Data.png:  Image of add task with data
+2. Add task Modal.png: Image of add task modal
 - 3. Checked.png: Image with task checked
 - 4. Dashboard data.png: Image of task Dashboard with data
 - 5. Dashboard.png: Image of task dashboard
@@ -247,4 +247,5 @@ All output images related to the project are stored in the `my-output` folder. B
 - 12. Update Toast message.png: Toast message of update task image
 
 Feel free to refer to these images for reference or visual representation of the project output.
+
 Click here to see the folder [my-output](my-output)
