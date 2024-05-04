@@ -233,7 +233,18 @@ Controller files for handling CRUD operations related to todos and authenticatio
 
 All output images related to the project are stored in the `my-output` folder. Below is a brief description of each image:
 
-1. Add task Data.png: 
-2. Add task
+- 1. Add task Data.png:  Image of add task with data
+- 2. Add task Modal.png: Image of add task modal
+- 3. Checked.png: Image with task checked
+- 4. Dashboard data.png: Image of task Dashboard with data
+- 5. Dashboard.png: Image of task dashboard
+- 6. Delete Toast message.png: Toast message of delete task image
+- 7. Edit page.png: Image of edit task modal
+- 8. Login Data.png: Image of Login page with data
+- 9. Login.png: Image of login page
+- 10. Signup data.png: Image of signup page with data
+- 11. Signup.png: Image of signup page
+- 12. Update Toast message.png: Toast message of update task image
+
 Feel free to refer to these images for reference or visual representation of the project output.
 Click here to see the folder [my-output](my-output)
