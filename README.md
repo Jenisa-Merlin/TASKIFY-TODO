@@ -76,10 +76,12 @@ This command will create an optimized production build of application in the bui
 
 ### App.js
 
-Started to design the task page, which will be shown only authenticated.
+`App.js` essentially responsible for rendering main UI of application, managing authentication state, fetching task data, displaying toast notifications.
 - imported **Auth.js**, **ListHeader.js**, **ListItem.js** to display the task App page
 - used `react-toastify` to receive toast notifications
 - used *useState* and *useHook* to manage side effects and state in functional components from React Library
 - used *useCookie* hook from `react-cookie` to allow component to read, write, remove cookies from browser
 
-###
+### Auth.js
+
+`Auth.js` responsible for rendering authentication form for logging in or signing up users
