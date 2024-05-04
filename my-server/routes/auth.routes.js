@@ -5,7 +5,7 @@ const authController = require("../controllers/auth.controller");
 // Creating instance of Express router
 const router = express.Router();
 
-// Defining routes for signing up and logging in
+// Defining routes for authentication signing up and logging in
 router.post("/signup", authController.signup);
 router.post("/login", authController.login);
 
