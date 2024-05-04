@@ -152,9 +152,8 @@ Create new `index.js` in project directory
 Require `Express` at top of the file
 ```
 const express = require('express');
-Create an instance of Express application
+//Create an instance of Express application
 const app = express();
-Define routes, middleware, and other application settings as when needed
 ```
 
 ## Step 4: Start the server
@@ -203,10 +202,23 @@ Routes specified are,
 > - **POST /login**: This route is used for user login. When a POST request is made to /login, it will invoke the login function from the authController.
 
 **Todo controller routes**
-> GET /todos: Retrieves all todos.
-> POST /todos: Creates a new todo.
-> GET /todos/:id: Retrieves a specific todo by its ID.
-> PATCH /todos/:id: Updates a specific todo by its ID.
-> DELETE /todos/:id: Deletes a specific todo by its ID.
-> GET /todos/user/:id: Retrieves todos specific to a user by their ID.
-> PUT /todos/:id: Updates the completion status of a specific todo by its ID.
+> - **GET /todos**: Retrieves all todos.
+> - **POST /todos**: Creates a new todo.
+> - **GET /todos/:id**: Retrieves a specific todo by its ID.
+> - **PATCH /todos/:id**: Updates a specific todo by its ID.
+> - **DELETE /todos/:id**: Deletes a specific todo by its ID.
+> - **GET /todos/user/:id**: Retrieves todos specific to a user by their ID.
+> - **PUT /todos/:id**: Updates the completion status of a specific todo by its ID.
+
+### Controller
+
+Controller files for handling CRUD operations related to todos and authentication (signup, login) control related
+
+## FUTURE IMPROVEMENTS
+1. Using email authentication
+2. Creating dashboard to know the total tasks, completed tasks, pending tasks
+3. Sending notification
+4. Adding tags and categories to tasks
+5. Deployed and can be hosted
+
+## OUTPUT IMAGES ARE ADDED
