@@ -150,10 +150,12 @@ npm install express
 
 Create new `index.js` in project directory
 Require `Express` at top of the file
-> const express = require('express');
+```
+const express = require('express');
 Create an instance of Express application
-> const app = express();
+const app = express();
 Define routes, middleware, and other application settings as when needed
+```
 
 ## Step 4: Start the server
 
@@ -197,8 +199,8 @@ Set up basic Express server with routes for authentication, todo management allo
 Routes specified are,
 
 **Authentication controller routes**
-> POST /signup: This route is used for user sign up. When a POST request is made to /signup, it will invoke the signup function from the authController.
-> POST /login: This route is used for user login. When a POST request is made to /login, it will invoke the login function from the authController.
+> - **POST /signup**: This route is used for user sign up. When a POST request is made to /signup, it will invoke the signup function from the authController.
+> - **POST /login**: This route is used for user login. When a POST request is made to /login, it will invoke the login function from the authController.
 
 **Todo controller routes**
 > GET /todos: Retrieves all todos.
