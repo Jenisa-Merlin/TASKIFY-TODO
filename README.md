@@ -214,11 +214,26 @@ Routes specified are,
 
 Controller files for handling CRUD operations related to todos and authentication (signup, login) control related
 
+# WORK PROGRESS - DATABASE
+- Used Postgres pgAdmin in local machine
+- Create database `Taskify`
+- Query is attached to `database.sql`
+
 ## FUTURE IMPROVEMENTS
 1. Using email authentication
 2. Creating dashboard to know the total tasks, completed tasks, pending tasks
 3. Sending notification
 4. Adding tags and categories to tasks
-5. Deployed and can be hosted
+5. User profile settings
+6. Collaboration features access by other users
+7. Task prioritization
+8. Feedback mechanism
 
 ## OUTPUT IMAGES ARE ADDED
+
+All output images related to the project are stored in the `my-output` folder. Below is a brief description of each image:
+
+1. Add task Data.png: 
+2. Add task
+Feel free to refer to these images for reference or visual representation of the project output.
+Click here to see the folder [my-output](my-output)
