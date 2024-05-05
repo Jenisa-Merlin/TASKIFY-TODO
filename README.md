@@ -253,4 +253,4 @@ Click here to see the folder [my-output](my-output)
 ## DEMO
 
 Demo of the taskify app
-[DEMO.gif](demo)
+![DEMO.gif](DEMO.gif)
