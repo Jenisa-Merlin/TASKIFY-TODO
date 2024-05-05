@@ -229,7 +229,7 @@ Controller files for handling CRUD operations related to todos and authenticatio
 7. Task prioritization
 8. Feedback mechanism
 
-## OUTPUT IMAGES ARE ADDED
+## OUTPUT IMAGES
 
 All output images related to the project are stored in the `my-output` folder. Below is a brief description of each image:
 
@@ -249,3 +249,8 @@ All output images related to the project are stored in the `my-output` folder. B
 Feel free to refer to these images for reference or visual representation of the project output.
 
 Click here to see the folder [my-output](my-output)
+
+## DEMO
+
+Demo of the taskify app
+[DEMO.gif](demo)
